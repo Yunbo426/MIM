@@ -6,10 +6,10 @@ import tensorflow as tf
 import numpy as np
 from time import time
 
-from pred_learn.data_provider import datasets_factory
-from pred_learn.models.model_factory import Model
-from pred_learn.utils import preprocess
-import pred_learn.trainer as trainer
+from src.data_provider import datasets_factory
+from src.models.model_factory import Model
+from src.utils import preprocess
+import src.trainer as trainer
 
 # -----------------------------------------------------------------------------
 FLAGS = tf.app.flags.FLAGS
