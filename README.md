@@ -8,6 +8,9 @@ We try to stationalize and approximate the non-stationary processes by modeling 
 
 ![model](https://github.com/thuml/MIM/blob/master/readme_fig/readme_structure.png)
 
+## Datasets and Checkpoints:
+We upload the datasets and checkpoints of MIM to Dropbox. You can download from [here](https://www.dropbox.com/s/7kd82ijezk4lkmp/mim-lib.zip?dl=0). The datasets includes Moving MNIST dataset, Color-Changing Moving MNIST dataset and TaxiBJ dataset. For Human36M dataset, you can download it via human36m.sh.
+
 ## Generation Results:
 
 #### Moving MNIST:
