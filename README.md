@@ -1,4 +1,8 @@
-# Memory In Memory: A Predictive Neural Network for Learning Higher-Order Non-Stationarity from Spatiotemporal Dynamics
+## Memory In Memory: A Predictive Neural Network for Learning Higher-Order Non-Stationarity from Spatiotemporal Dynamics. CVPR 2019.
+
+You may use this repository to reproduce our work for video prediction and spatiotemporal modeling. 
+
+[Paper link](https://arxiv.org/pdf/1811.07490.pdf).
 
 ## Abstract
 
