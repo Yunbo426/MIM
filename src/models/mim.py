@@ -3,7 +3,7 @@ __author__ = 'jianjin'
 import tensorflow as tf
 from src.layers.SpatioTemporalLSTMCellv2 import SpatioTemporalLSTMCell as stlstm
 from src.layers.MIMBlock import MIMBlock as mimblock
-from src.layers.MIMN import ConvLSTMCell as lstm
+from src.layers.MIMN import MIMN as mimn
 import math
 
 
@@ -48,7 +48,7 @@ def mim(images, params, schedual_sampling_bool, num_layers, num_hidden, filter_s
         hidden_state.append(None)
 
     for i in range(num_layers - 1):
-        new_stlstm_layer = lstm('stlstm_diff' + str(i + 1),
+        new_stlstm_layer = mimn('stlstm_diff' + str(i + 1),
                                 filter_size,
                                 num_hidden[i + 1],
                                 shape,
