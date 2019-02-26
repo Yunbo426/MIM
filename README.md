@@ -8,14 +8,17 @@ We try to stationalize and approximate the non-stationary processes by modeling 
 
 ![model](https://github.com/thuml/MIM/blob/master/readme_fig/readme_structure.png)
 
-## Pre-trained Models and Datasets:
+## Pre-trained Models and Datasets
+
 All pre-trained MIM models have been uploaded [here](https://www.dropbox.com/s/7kd82ijezk4lkmp/mim-lib.zip?dl=0). 
 
-It also includes our pre-processed training/testing data for Moving MNIST, Color-Changing Moving MNIST, and TaxiBJ. For Human3.6M, you may  download it using data/human36m.sh.
+It also includes our pre-processed training/testing data for Moving MNIST, Color-Changing Moving MNIST, and TaxiBJ. 
 
-## Generation Results:
+For Human3.6M, you may  download it using data/human36m.sh.
 
-#### Moving MNIST:
+## Generation Results
+
+#### Moving MNIST
 
 ![mnist1](https://github.com/thuml/MIM/blob/master/readme_fig/mnist1.gif)
 
@@ -23,7 +26,7 @@ It also includes our pre-processed training/testing data for Moving MNIST, Color
 
 ![mnist2](https://github.com/thuml/MIM/blob/master/readme_fig/mnist5.gif)
 
-#### Color-Changing Moving MNIST:
+#### Color-Changing Moving MNIST
 
 ![mnistc1](https://github.com/thuml/MIM/blob/master/readme_fig/mnistc2.gif)
 
@@ -31,7 +34,7 @@ It also includes our pre-processed training/testing data for Moving MNIST, Color
 
 ![mnistc2](https://github.com/thuml/MIM/blob/master/readme_fig/mnistc4.gif)
 
-#### Radar Echos:
+#### Radar Echos
 
 ![radar1](https://github.com/thuml/MIM/blob/master/readme_fig/radar9.gif)
 
@@ -45,6 +48,6 @@ It also includes our pre-processed training/testing data for Moving MNIST, Color
   title={Memory In Memory: A Predictive Neural Network for Learning Higher-Order Non-Stationarity from Spatiotemporal Dynamics},
   author={Wang, Yunbo and Zhang, Jianjin and Zhu, Hongyu and Long, Mingsheng and Wang, Jianmin and Yu, Philip S},
   journal={arXiv preprint arXiv:1811.07490},
-  year={2018}
+  year={2019}
 }
 ```
