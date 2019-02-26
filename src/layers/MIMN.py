@@ -1,7 +1,7 @@
 import tensorflow as tf
 from src.layers.TensorLayerNorm import tensor_layer_norm
 
-class ConvLSTMCell():
+class MIMN():
     def __init__(self, layer_name, filter_size, num_hidden, seq_shape, tln=True, initializer=0.001):
         """Initialize the basic Conv LSTM cell.
         Args:
