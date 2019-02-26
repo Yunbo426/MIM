@@ -8,8 +8,10 @@ We try to stationalize and approximate the non-stationary processes by modeling 
 
 ![model](https://github.com/thuml/MIM/blob/master/readme_fig/readme_structure.png)
 
-## Datasets and Checkpoints:
-We uploaded our pre-trained MIM models as well as the training/testing data (Moving MNIST, Color-Changing Moving MNIST, and TaxiBJ) to [here](https://www.dropbox.com/s/7kd82ijezk4lkmp/mim-lib.zip?dl=0). Human3.6M data can be downloaded using data/human36m.sh.
+## Pre-trained Models and Datasets:
+All pre-trained MIM models have been uploaded [here](https://www.dropbox.com/s/7kd82ijezk4lkmp/mim-lib.zip?dl=0). 
+
+It also includes our pre-processed training/testing data for Moving MNIST, Color-Changing Moving MNIST, and TaxiBJ. For Human3.6M, you may  download it using data/human36m.sh.
 
 ## Generation Results:
 
