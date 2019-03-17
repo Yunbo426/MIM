@@ -12,9 +12,7 @@ We try to stationalize and approximate the non-stationary processes by modeling 
 
 ## Pre-trained Models and Datasets
 
-All pre-trained MIM models have been uploaded [here](https://www.dropbox.com/s/7kd82ijezk4lkmp/mim-lib.zip?dl=0). 
-
-For Chinese users, we provide [BAIDU WANGPAN](https://pan.baidu.com/s/1O07H7l1NTWmAkx3UCDVMLA) (The password is "srhv").
+All pre-trained MIM models have been uploaded to [DROPBOX](https://www.dropbox.com/s/7kd82ijezk4lkmp/mim-lib.zip?dl=0) and [BAIDU YUN](https://pan.baidu.com/s/1O07H7l1NTWmAkx3UCDVMLA) (password: srhv).
 
 It also includes our pre-processed training/testing data for Moving MNIST, Color-Changing Moving MNIST, and TaxiBJ. 
 
