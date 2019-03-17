@@ -44,6 +44,14 @@ For Human3.6M, you may  download it using data/human36m.sh.
 
 ![radar3](https://github.com/thuml/MIM/blob/master/readme_fig/radar7.gif)
 
+#### Human3.6M
+
+![human1](https://github.com/thuml/MIM/blob/master/readme_fig/human3.gif)
+
+![human2](https://github.com/thuml/MIM/blob/master/readme_fig/human5.gif)
+
+![human3](https://github.com/thuml/MIM/blob/master/readme_fig/human10.gif)
+
 ## BibTeX
 ```
 @article{wang2018memory,
