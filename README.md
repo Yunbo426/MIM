@@ -46,11 +46,11 @@ For Human3.6M, you may  download it using data/human36m.sh.
 
 #### Human3.6M
 
-![human1](https://github.com/thuml/MIM/blob/master/readme_fig/human3.gif)
+![human1](https://github.com/ZJianjin/mim_images/blob/master/human3.gif)
 
-![human2](https://github.com/thuml/MIM/blob/master/readme_fig/human5.gif)
+![human2](https://github.com/ZJianjin/mim_images/blob/master/human5.gif)
 
-![human3](https://github.com/thuml/MIM/blob/master/readme_fig/human10.gif)
+![human3](https://github.com/ZJianjin/mim_images/blob/master/human10.gif)
 
 ## BibTeX
 ```
