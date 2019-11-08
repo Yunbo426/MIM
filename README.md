@@ -22,27 +22,27 @@ For Human3.6M, you may  download it using data/human36m.sh.
 
 #### Moving MNIST
 
-![mnist1](https://github.com/thuml/MIM/blob/master/readme_fig/mnist1.gif)
+![mnist1](https://github.com/ZJianjin/mim_images/blob/master/mnist1.gif)
 
-![mnist2](https://github.com/thuml/MIM/blob/master/readme_fig/mnist4.gif)
+![mnist2](https://github.com/ZJianjin/mim_images/blob/master/mnist4.gif)
 
-![mnist2](https://github.com/thuml/MIM/blob/master/readme_fig/mnist5.gif)
+![mnist2](https://github.com/ZJianjin/mim_images/blob/master/mnist5.gif)
 
 #### Color-Changing Moving MNIST
 
-![mnistc1](https://github.com/thuml/MIM/blob/master/readme_fig/mnistc2.gif)
+![mnistc1](https://github.com/ZJianjin/mim_images/blob/master/mnistc2.gif)
 
-![mnistc2](https://github.com/thuml/MIM/blob/master/readme_fig/mnistc3.gif)
+![mnistc2](https://github.com/ZJianjin/mim_images/blob/master/mnistc3.gif)
 
-![mnistc2](https://github.com/thuml/MIM/blob/master/readme_fig/mnistc4.gif)
+![mnistc2](https://github.com/ZJianjin/mim_images/blob/master/mnistc4.gif)
 
 #### Radar Echos
 
-![radar1](https://github.com/thuml/MIM/blob/master/readme_fig/radar9.gif)
+![radar1](https://github.com/ZJianjin/mim_images/blob/master/radar9.gif)
 
-![radar2](https://github.com/thuml/MIM/blob/master/readme_fig/radar3.gif)
+![radar2](https://github.com/ZJianjin/mim_images/blob/master/radar3.gif)
 
-![radar3](https://github.com/thuml/MIM/blob/master/readme_fig/radar7.gif)
+![radar3](https://github.com/ZJianjin/mim_images/blob/master/radar7.gif)
 
 #### Human3.6M
 
