@@ -8,7 +8,7 @@ Natural spatiotemporal processes can be highly non-stationary in many ways, e.g.
 
 We try to stationalize and approximate the non-stationary processes by modeling the differential signals with the MIM recurrent blocks. By stacking multiple MIM blocks, we could potentially handle higher-order non-stationarity. Our model achieves the state-of-the-art results on three spatiotemporal prediction tasks across both synthetic and real-world data.
 
-![model](https://github.com/thuml/MIM/blob/master/readme_fig/readme_structure.png)
+![model](https://github.com/ZJianjin/mim_images/blob/master/readme_structure.png)
 
 ## Pre-trained Models and Datasets
 
